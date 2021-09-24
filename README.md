@@ -2,7 +2,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/LXR-YOUTUBER-AMAL/VCPlayerBot?color=blue&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/LXR-YOUTUBER-AMAL/VCPlayerBot)
-![GitHub pull requests](https://img.shields.io/github/pull requests/LXR-YOUTUBER-AMAL/VCPlayerBot)
+![GitHub pull requests](https://img.shields.io/github/pull_requests/LXR-YOUTUBER-AMAL/VCPlayerBot)
 ![GitHub contributors](https://img.shields.io/github/contributors/LXR-YOUTUBER-AMAL/VCPlayerBot?style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/LXR-YOUTUBER-AMAL/VCPlayerBot?style=flat)
 
